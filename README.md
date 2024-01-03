@@ -1,3 +1,4 @@
 ## About Me
 
-End of an era...
+Work: Staff Engineer @ Stripe
+Hobbies: Music, Robotics, Running
